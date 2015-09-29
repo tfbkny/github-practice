@@ -5,3 +5,6 @@ Things you may want to cover
 
 ## Ruby Version version
 2.2.0p0
+
+## Author
+[tfbkny](https://github.com/tfbkny)
